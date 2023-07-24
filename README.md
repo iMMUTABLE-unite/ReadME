@@ -3,8 +3,8 @@
 ### IDE<br>
 
 OS : window 10, window11<br>
-IDE : spring boot / vs code / intellij <br>
-BACK : java + JPA 
+IDE : vs code / intellij <br>
+BACK : spring boot / java + JPA 
 FRONT : react + html (styled compoenets) + RESTful API + axios <br>
 DB : mysql 
 SERVER : AWS<br>
