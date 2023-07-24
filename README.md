@@ -4,7 +4,7 @@
 
 OS : window 10, window11<br>
 IDE : vs code / intellij <br>
-BACK : spring boot / java + JPA 
+BACK : spring boot / java + JPA <br>
 FRONT : react + html (styled compoenets) + RESTful API + axios <br>
 DB : mysql 
 SERVER : AWS<br>
