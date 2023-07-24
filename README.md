@@ -6,7 +6,7 @@ OS : window 10, window11<br>
 IDE : vs code / intellij <br>
 BACK : spring boot / java + JPA <br>
 FRONT : react + html (styled compoenets) + RESTful API + Axios API <br>
-DB : mysql 
+DB : mysql <br>
 SERVER : AWS<br>
 SCM : github<br>
 etc : fillzilla
