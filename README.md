@@ -9,7 +9,7 @@ FRONT : react + html (styled compoenets) + RESTful API + Axios API <br>
 DB : MySQL <br>
 SERVER : AWS<br>
 SCM : GitHub<br>
-etc : fillzilla
+etc : FileZilla
 
 site link : <a href="http://proj-immutable.store">proj-immutable.store</a><br>
 presentation link : <a href="https://firebasestorage.googleapis.com/v0/b/immutable-finalproj.appspot.com/o/pdf_mini_Proj%2Fimmutable.pdf?alt=media&token=9bde57a3-d27c-4161-a4ba-e1001fd33ee5"> ppt</a>
