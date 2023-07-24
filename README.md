@@ -7,7 +7,10 @@ java JPA / react + html (styled compoenets) + RESTful API + axios <br>
 mysql / aws  <br>
 github<br>
 
-<a href="http://proj-immutable.store">project link</a>
+site link : <a href="http://proj-immutable.store">proj-immutable.store</a><br>
+presentation link : <a href="https://firebasestorage.googleapis.com/v0/b/immutable-finalproj.appspot.com/o/pdf_mini_Proj%2Fimmutable.pdf?alt=media&token=14cfeecf-ba9f-47af-9d1d-2f4eafe508b4"> ppt link</a>
+
+
 
 ### kh-final-project<br>
 front : react <br>
