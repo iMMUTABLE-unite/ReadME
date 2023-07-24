@@ -7,7 +7,7 @@ java JPA / react + html (styled compoenets) + RESTful API + axios <br>
 mysql / aws  <br>
 github<br>
 
-<a href="http://proj-immutable.store>project link</a>
+<a href="http://proj-immutable.store">project link</a>
 
 ### kh-final-project<br>
 front : react <br>
