@@ -1,5 +1,12 @@
 # README
 
+
+window 10, window11<br>
+spring boot / vs code / intellij <br>
+java JPA / react + html (styled compoenets) + RESTful API + axios <br>
+mysql / aws  <br>
+github<br>
+
 ### kh-final-project<br>
 front : react <br>
 npm install -global yarn<br>
