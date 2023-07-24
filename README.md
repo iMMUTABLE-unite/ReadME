@@ -39,6 +39,3 @@ npm install firebase
 #### yarn 오류시<br>
 yarn add global react-scripts<br>
 <p>
-  
-back : spring boot
-
