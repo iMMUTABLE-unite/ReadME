@@ -8,7 +8,7 @@ BACK : spring boot / java + JPA <br>
 FRONT : react + html (styled compoenets) + RESTful API + Axios API <br>
 DB : MySQL <br>
 SERVER : AWS<br>
-SCM : github<br>
+SCM : GitHub<br>
 etc : fillzilla
 
 site link : <a href="http://proj-immutable.store">proj-immutable.store</a><br>
